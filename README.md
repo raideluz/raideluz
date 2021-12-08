@@ -16,6 +16,4 @@
   ##
   
   <div> 
-    <a href="https://www.linkedin.com/in/raileny-santana-lima-dev/" target="_blank"> <img src = "https://img.shields.io/badge/-LinkedIn-% 230077B5? Style = for-the-badge & logo = linkedin & logoColor = white "target =" _ blank "> </a>
-    
-</div>
+    <a href="https://www.linkedin.com/in/raileny-santana-lima-dev/" target="_blank"> <img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white""target =" _ blank "                        </a>     

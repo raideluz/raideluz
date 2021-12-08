@@ -13,6 +13,11 @@
     <img align = "center" height = "40" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" />
  </div>
   
+  <div style = "display: inline_block"> <br>
+   <img align = "right" alt = "Rai-pic" height = "150" style = "border-radius:50px;"src="https://media.discordapp.net/attachments/918243293085712399/918243677766287390/download20211203173508.png">
+ </div>
+
+  
   ##
   
   <div> 
